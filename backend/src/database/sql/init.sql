@@ -1,0 +1,4 @@
+CREATE USER myUser;
+
+CREATE DATABASE nex_digital;
+GRANT ALL PRIVILEGES ON DATABASE nex_digital TO myUser;
